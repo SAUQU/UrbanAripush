@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095811249000",
+    "firebase_url": "https://urbanairship-c28a3.firebaseio.com",
+    "project_id": "urbanairship-c28a3",
+    "storage_bucket": "urbanairship-c28a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095811249000:android:35448888e0c31abe",
+        "android_client_info": {
+          "package_name": "com.example.segundoauqui.urbanaripush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095811249000-todcr79sme5e1ukhcvsnk95u6ugkakj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.segundoauqui.urbanaripush",
+            "certificate_hash": "12cafd777fd6cb1e02eb5daa7bb0bfd02b73cd80"
+          }
+        },
+        {
+          "client_id": "1095811249000-ahpeefe0nlal4rprcf1gmi8d266j475g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQtg3vU6dx6TBAh2nnEPzGn-Sv6vneBHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095811249000-ahpeefe0nlal4rprcf1gmi8d266j475g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
